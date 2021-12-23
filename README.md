@@ -1,1 +1,1 @@
-TBD
+This is a random message generator program. Hopefully, it works.
