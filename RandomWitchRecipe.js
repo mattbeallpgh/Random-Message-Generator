@@ -1,9 +1,9 @@
 //object full of our random message parts
 const messageParts = {
-    partsOne: ['3 bat wings', '7 eyes of newt', '2 wolf teeth', '10 owl feathers', '37 woodland spirits', '8 gnar roots'],
-    partsTwo: ['boil in jello', 'pulverize in an atomizer', 'toss into the river \'o flame', 'juggle them in the pale moonlight', 'hide beneath a turtle stone', 'arrange into the shape of a cricket'],
-    partsThree: ['sing the song of antlers', 'dance the jig of eternal goonfullery', 'call to the Great Wandering Tree', 'spit into the abyss', 'give your neighbor a dollar'],
-    partsFour: ['zombie army', 'demon familiar', 'ghost friend', 'Frankenstein crocodile', 'restless spirit fish', 'bubblegum golem'],
+    partsOne: ['3 bat wings', '7 eyes of newt', '2 wolf teeth', '10 owl feathers', '37 woodland spirits', '8 gnar roots', '20 Vorlax talons'],
+    partsTwo: ['boil in jello', 'pulverize in an atomizer', 'toss into the river \'o flame', 'juggle them in the pale moonlight', 'hide beneath a turtle stone', 'arrange into the shape of a cricket', 'stack into a spirit column'],
+    partsThree: ['sing the song of antlers', 'dance the jig of eternal goonfullery', 'call to the Great Wandering Tree', 'spit into the abyss', 'give your neighbor a dollar', 'strum the ether chord'],
+    partsFour: ['zombie army', 'demon familiar', 'ghost friend', 'Frankenstein crocodile', 'restless spirit fish', 'bubblegum golem', 'gremlin squire'],
  }
 //empty array that will eventually contain our randomly selected parts
  let partsArray = [];
